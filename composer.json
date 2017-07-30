@@ -1,8 +1,8 @@
 {
-    "name": "facuz/laravel-themes",
+    "name": "AgentSoftware/theme",
     "description": "Theme will help you organize your themes inside Laravel projects easily and maintain its related assets, layouts and partials for the theme in single directory. (Based on teepluss/theme)",
     "keywords": ["laravel", "theme", "layout", "asset", "widget"],
-    "homepage": "https://github.com/facuz/laravel-theme",
+    "homepage": "https://github.com/facuz/theme",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -13,10 +13,13 @@
         {
             "name": "FaCuZ",
             "email": "indis@indis.com.ar"
-        }
+        },
+        {
+            "name" : "Robin",
+            "email" : "robin.baum@agentsoftware.net"
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.0.0",
         "jeremeamia/superclosure": "^2.0"
     },
     "require-dev": {
