@@ -17,6 +17,7 @@
         {
             "name" : "Robin",
             "email" : "robin.baum@agentsoftware.net"
+        }
     ],
     "require": {
         "php": ">=7.0.0",
