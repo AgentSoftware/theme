@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Facuz\\Theme\\": "src/"
+            "agentsoftware\\theme\\": "src/"
         },
         "classmap": [
             "src/Exceptions.php"
